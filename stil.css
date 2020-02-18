@@ -1,0 +1,51 @@
+#body{
+    font-family:Tahoma;
+    font-size:12px;
+    color:black;
+    margin:0px;
+    padding:0px;
+
+
+}
+
+#banner {
+    background-color: red;
+    color:white;
+    font-size:40px;
+    text-align: center;
+    line-height: 50px;
+   
+
+}
+#menu {
+    background-color: gray;
+    float:left;
+    width: 200px;
+    font-size:16px;
+
+}
+#menu ul {
+    list-style-type:none;
+
+}
+#menu ul li {
+    line-height: 30px;
+
+}
+#menu ul li a {
+    text-decoration: none;
+    color:white;
+    text-transform: uppercase;
+
+}
+#menu ul li a:hover{
+    color:red;
+    font-size:20px;
+
+}
+#içerik {
+    background-color: gray;
+    padding:10px;
+    font-size:14px;
+    text-align: justify;
+}
